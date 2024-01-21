@@ -4,3 +4,7 @@ welcome to Beatriz
 welcome to benedict
 // Bug-130
 int a=10;
+int x,y,z;
+x=89;
+y=90;
+z=30;
